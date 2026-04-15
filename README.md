@@ -1,2 +1,0 @@
-# samin-digi-works
-joo
