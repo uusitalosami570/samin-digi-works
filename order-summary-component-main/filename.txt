@@ -1,4 +1,0 @@
-haloo
-git add filename.txt
-git commit -m "I did it"
-git push -u origin main
